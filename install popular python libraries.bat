@@ -40,5 +40,21 @@ echo Installing Beautiful Soup...
 rem Beautiful Soup is a library for parsing and navigating HTML and XML documents.
 pip install beautifulsoup4
 
+echo Installing pytesseract...
+rem pytesseract is a wrapper for Tesseract OCR.  Ensure Tesseract is installed separately.
+pip install pytesseract
+
+echo Installing Scrapy...
+rem Scrapy is a powerful and popular web scraping framework.
+pip install scrapy
+
+echo Installing openai...
+rem openai is a library for interacting with OpenAI's APIs.
+pip install openai
+
+echo Installing anthropic...
+rem anthropic is a library for interacting with Anthropic's Claude models.
+pip install anthropic
+
 echo Installation complete.
 pause
