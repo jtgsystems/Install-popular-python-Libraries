@@ -975,7 +975,7 @@ Repository: https://github.com/jtgsystems/Install-popular-python-Libraries
 
 ---
 
-*Last Updated: 2025-10-26*
+*Last Updated: 2025-12-26*
 
 ## Framework Versions
 
